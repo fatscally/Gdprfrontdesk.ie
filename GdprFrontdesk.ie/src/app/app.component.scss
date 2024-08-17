@@ -1,0 +1,184 @@
+.banner {
+    background-color: #111 !important;
+    background-image: none !important;
+    float: none !important;
+    position: absolute !important;
+    z-index: -10;
+    left: 0 !important;
+    top: 0 !important;
+    max-width: none !important;
+    width: 100% !important;
+    min-height: 150px;
+    margin: 0 auto !important;
+    padding: 57.5px 40px !important;
+    min-width: 0 !important;
+    text-align: start !important;
+  
+  }
+  
+  h3{
+    font-weight: 100;
+  }
+  
+  .heading {
+    max-width: 1200px;
+    font-weight: 100;
+    font-size: 36px;
+    letter-spacing: .6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-color: #111 !important;
+  }
+  
+  .content {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .subheading {
+    font-size: 22px;
+    letter-spacing: .4rem;
+  }
+  
+  .header-image {
+    margin-right: 100px;
+    float: right;
+  }
+  
+  
+  .listoftext {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+  }
+  
+  .columns{
+    width: 500px;
+  }
+  
+/*   .images{
+    width: 400px;
+    padding: 30px;
+  }
+   */
+  .picture-paragraphs {
+    margin-top: auto;
+    margin-bottom: auto;
+    max-height: 100px;
+  }
+  
+  
+  .paragraph-image {
+    max-width: 300px;
+    height:auto;
+    margin-right: 100px;
+    float: left;
+    aspect-ratio: auto 4 / 3;
+  }
+  
+  .paragraph-header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 46px;
+    font-weight: 600;
+    padding: 30px;
+  }
+  
+  .paragraph-body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+  
+  }
+  
+  .paragraph-textarea {
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    padding: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    border-color: #ddd;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px #ccc;
+    width: 450px;
+  }
+  
+  
+  .emailbox{
+    background-color: #665a72 !important;
+    display: inline-block;
+    max-width: none !important;
+    width: 100% !important;
+    float: none !important;
+    left: 0 !important;
+    z-index: -10;
+    position: absolute !important;
+    min-height: 150px;
+    margin: 0 auto !important;
+    padding: 57.5px 40px !important;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .emailboxcontents{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .emailinput{
+    width: 80%;
+    font-size: 16px;
+    background-color:antiquewhite;
+    margin: 3px 0;
+    height: 40px;
+    padding: 0 10px;
+  }
+  
+  .emailtextarea{
+    width: 90%;
+    font-size: 16px;
+    background-color:antiquewhite;
+    margin: 3px 0;
+    height: 60px;
+    padding: 0 10px;
+  }
+  
+  .footernotes{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .sendbutton{
+    background-color:rgb(48, 131, 255);
+    border: none;
+    color:#111;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    opacity: 0.5;
+  }
+  
+  .sendbutton:hover{
+    color: whitesmoke;
+    opacity: 1;
+  }
+
+  .jumbotron {
+    padding: 0;
+    margin: 0;
+    border-width: 1px;
+    border-color: #ccc;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #ccc;
+
+  }
